@@ -6,3 +6,4 @@ Ore-Ida reg form
 Members
 --------
 - Jake Overall
+- Sara Randolph
